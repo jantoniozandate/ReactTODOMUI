@@ -1,0 +1,27 @@
+{
+  "title": "BasicTable Material Demo",
+  "name": "react-todo-list-materialui",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.3/docs/src/pages/components/tables/BasicTable.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@fontsource/roboto": "4.5.1",
+    "@mui/icons-material": "5.0.3",
+    "@mui/material": "latest",
+    "axios": "0.22.0",
+    "lodash": "4.17.21",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "version": "0.0.46",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
